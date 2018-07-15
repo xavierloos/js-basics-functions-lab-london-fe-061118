@@ -31,7 +31,7 @@ function calculatesFarePrice(start, destination){
   if (start==43 && destination==44){
     return 0
     
-  } else  if (start==43 && destination==44){
+  } else  if (start =43 && destination==44){
     return 0
     
   }
